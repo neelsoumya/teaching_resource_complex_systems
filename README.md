@@ -2,6 +2,6 @@
 
 Teaching resources for complex systems and data science
 
-
+https://osf.io/25gnz/
 
 https://osf.io/wqfje/
